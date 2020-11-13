@@ -1,0 +1,2 @@
+make a copy of file rename wifi_config_example.h with name wifi_config.h
+write you ssid, wifipassword and auth in wifi_config.h
