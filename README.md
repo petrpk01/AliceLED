@@ -1,6 +1,6 @@
 # AliceLED - зажигание светодиода на esp8266 с по
 
-// [**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
+[//]: <> ( [**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
 
 * [О проекте](#chapter-0)
 * [Оборудование](#chapter-1)
