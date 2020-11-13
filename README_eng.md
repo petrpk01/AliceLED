@@ -10,14 +10,14 @@
 
 <a id="chapter-0"></a>
 ## О проекте
-![Diagram](https://github.com/petrpk01/gasdetector/blob/main/diagrams/AliceLED.png)
+![Diagram](https://github.com/petrpk01/AliceLED/blob/main/diagrams/AliceLED.png)
 
 <a id="chapter-1"></a>
 ## Оборудование`
 1. Микроконтроллер
    1. esp8266 nodemcu v3 CH340 (esp8266 NodeMCU v1.0)
    
-   ![esp8266](https://github.com/petrpk01/gasdetector/blob/main/manuals/NodeMCU/esp8266_01.png)
+   ![esp8266](https://github.com/petrpk01/AliceLED/blob/main/manuals/NodeMCU/esp8266_01.png)
 
 2. Индикаторы
 
