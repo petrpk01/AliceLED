@@ -10,6 +10,7 @@
 
 <a id="chapter-0"></a>
 ## О проекте
+![Diagram](https://github.com/petrpk01/gasdetector/blob/main/diagrams/AliceLED.png)
 
 <a id="chapter-1"></a>
 ## Оборудование`
