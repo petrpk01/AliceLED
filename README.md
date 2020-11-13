@@ -1,6 +1,6 @@
 # AliceLED - зажигание светодиода на esp8266 с по
 
-[**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
+// [**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
 
 * [О проекте](#chapter-0)
 * [Оборудование](#chapter-1)
@@ -17,11 +17,15 @@
 1. Микроконтроллер
    1. esp8266 nodemcu v3 CH340 (esp8266 NodeMCU v1.0)
    
-   ![esp8266](https://github.com/petrpk01/gasdetector/blob/main/manuals/NodeMCU/esp8266_01.png)
+   ![esp8266](https://github.com/petrpk01/AliceLED/blob/main/manuals/NodeMCU/esp8266_01.png)
 
 2. Индикаторы
 
+![LED](https://github.com/petrpk01/AliceLED/blob/main/manuals/Amperka/LED/LED.png) 
+
 3. Прочее
+
+![Yandex.Station](https://github.com/petrpk01/AliceLED/blob/main/manuals/Yandex/Station/Yandex.Station.jpg) 
 
 <a id="chapter-2"></a>   
 ## Программное обеспечение
