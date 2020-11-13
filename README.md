@@ -42,5 +42,9 @@ http://blynk-cloud.com/auth_token/update/V1?value=0 	Выключить V1 (ко
 
 <a id="chapter-4"></a>
 ## Ссылки 
+[побудительное видео][1]
+[Алиса, Ардуино и Blynk - делаем собственное устройство][2]
+
+
 [1]: https://www.youtube.com/watch?v=9rQ1yl00WwE "побудительное видео"
 [2]: https://wiki.yaboard.com/w/%D0%90%D0%BB%D0%B8%D1%81%D0%B0,_%D0%90%D1%80%D0%B4%D1%83%D0%B8%D0%BD%D0%BE_%D0%B8_Blynk_-_%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D0%BC_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE "Алиса, Ардуино и Blynk - делаем собственное устройство"
