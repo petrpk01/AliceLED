@@ -1,6 +1,6 @@
 # AliceLED - зажигание светодиода на esp8266 с по
 
-[//]: <> ( [**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
+[**▶SWITCH TO ENGLISH◀**](https://github.com/petrpk01/AliceLED/blob/main/README_eng.md)
 
 * [О проекте](#chapter-0)
 * [Оборудование](#chapter-1)
@@ -13,7 +13,7 @@
 ![Diagram](https://github.com/petrpk01/AliceLED/blob/main/diagrams/AliceLED.png)
 
 <a id="chapter-1"></a>
-## Оборудование`
+## Оборудование
 1. Микроконтроллер
    1. esp8266 nodemcu v3 CH340 (esp8266 NodeMCU v1.0)
    
